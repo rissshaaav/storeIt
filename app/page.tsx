@@ -1,5 +1,5 @@
 export default function Home() {
   return (
-    <div className="center">StoreIt - The only storage solution you need!</div>
+    <div>StoreIt - The only storage solution you need!</div>
   );
 }
